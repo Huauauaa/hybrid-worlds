@@ -1,7 +1,7 @@
 import { defineConfig } from 'dumi'
 
 export default defineConfig({
-  base: './',
+  base: '/hybrid-worlds/',
   outputPath: 'docs-dist',
   themeConfig: {
     name: 'hybrid-worlds',
