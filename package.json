@@ -1,10 +1,12 @@
 {
   "name": "hybrid-worlds",
-  "version": "0.0.1",
+  "version": "0.0.2-alpha.4",
   "description": "",
   "license": "MIT",
+  "main": "dist/index",
   "module": "dist/index.js",
   "types": "dist/types.d.ts",
+  "typings": "dist/index",
   "files": [
     "dist"
   ],
