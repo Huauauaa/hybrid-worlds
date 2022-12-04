@@ -1,12 +1,12 @@
 ---
 hero:
-  title: library
-  description:
+  title: Hybrid worlds
+  description: a dumi demo
   actions:
-    - text: Hello
-      link: /
-    - text: World
-      link: /
+    - text: Guide
+      link: /guide
+    - text: Github
+      link: https://github.com/Huauauaa/hybrid-worlds
 features:
   - title: Hello
     emoji: 💎
@@ -18,5 +18,3 @@ features:
     emoji: 🚀
     description: Put ! description here
 ---
-
-hybrid-worlds

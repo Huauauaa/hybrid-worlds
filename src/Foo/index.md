@@ -1,9 +1,15 @@
+---
+title: foo
+group:
+  title: Component
+---
+
 # Foo
 
 This is an example component.
 
 ```jsx
-import { Foo } from 'hybrid-worlds';
+import { Foo } from 'hybrid-worlds'
 
-export default () => <Foo title="Hello dumi!" />;
+export default () => <Foo title="Hello dumi!" />
 ```

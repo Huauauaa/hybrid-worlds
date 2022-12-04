@@ -6,5 +6,10 @@ export default defineConfig({
   outputPath: 'docs-dist',
   themeConfig: {
     name: 'hybrid-worlds',
+    footer: false,
   },
+  styles: [
+    `.dumi-default-sidebar > dl > dt  { 
+      text-transform: initial !important; }`,
+  ],
 })
